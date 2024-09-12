@@ -81,4 +81,4 @@ You can use the `setup`, `build`, and `test` sub-actions to run each action indi
 
 This project is licensed under the terms of the [MIT License](./LICENSE).
 
-Copyright © 2021-2023 [ICHIRO ITS](https://github.com/ichiro-its)
+Copyright © 2021-2024 [ICHIRO ITS](https://github.com/ichiro-its)
